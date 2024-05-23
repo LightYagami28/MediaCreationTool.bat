@@ -1,5 +1,3 @@
-@(set '(=)||' <# lean and mean cmd / ps1 hybrid, can paste into powershell console #> @'
-
 @echo off & title WINDOWS UPDATE REFRESH
 
 ::# elevate with native shell by AveYo
